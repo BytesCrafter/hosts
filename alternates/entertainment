@@ -1,0 +1,88 @@
+# Title: BytesCrafter/hosts extension entertainment
+#
+# ===============================================================
+
+# Entertainment Sites
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 api.netflix.com
+0.0.0.0 nflxext.com
+
+0.0.0.0 vimeo.com
+0.0.0.0 player.vimeo.com
+
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 disneyplus.co.uk
+
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+0.0.0.0 spotify.org
+
+0.0.0.0 tv.apple.com
+0.0.0.0 www.apple.com/tv
+
+0.0.0.0 hbo.com
+0.0.0.0 www.hbo.com
+0.0.0.0 hbomax.com
+
+# Social Media Sites
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fb.com
+
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 m.instagram.com
+
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+
+0.0.0.0 twitter.com
+0.0.0.0 mobile.twitter.com
+
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+
+0.0.0.0 linkedin.com
+0.0.0.0 www.linkedin.com
+0.0.0.0 m.linkedin.com
+
+0.0.0.0 whatsapp.com
+0.0.0.0 web.whatsapp.com
+0.0.0.0 m.whatsapp.com
+
+# Additional Communication and Entertainment Apps
+0.0.0.0 skype.com
+0.0.0.0 web.skype.com
+
+0.0.0.0 zoom.us
+0.0.0.0 www.zoom.us
+
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+
+0.0.0.0 viber.com
+0.0.0.0 www.viber.com
